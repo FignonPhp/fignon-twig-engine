@@ -46,7 +46,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=8.0.0",
-        "FignonPhp/fignon-view-engine": "^0.0.1",
+        "fignon/fignon-view-engine": "^0.0.1",
         "twig/twig": "^3.0"
     }
 }

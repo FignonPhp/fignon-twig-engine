@@ -43,7 +43,6 @@
         "php-middleware"
     ],
     "prefer-stable": true,
-    "minimum-stability": "dev",
     "require": {
         "php": ">=8.0.0",
         "fignon/fignon-view-engine": "^0.0.1",
